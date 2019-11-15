@@ -1,4 +1,4 @@
-package triangularnumber;
+package algorithms.recursion.triangularnumber;
 
 import java.io.BufferedReader;
 import java.io.IOException;

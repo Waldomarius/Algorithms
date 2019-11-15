@@ -1,4 +1,4 @@
-package triangularnumber;
+package algorithms.recursion.triangularnumber;
 
 public class TriangularNumberAlgorithm {
     public long triangularNumber(long number) {

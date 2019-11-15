@@ -1,4 +1,4 @@
-package anagrams;
+package algorithms.recursion.anagrams;
 
 public class AnagramAlgorithm {
     private String word;

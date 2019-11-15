@@ -1,4 +1,4 @@
-package anagrams;
+package algorithms.recursion.anagrams;
 
 
 import java.io.BufferedReader;

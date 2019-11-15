@@ -1,4 +1,4 @@
-package factorial;
+package algorithms.recursion.factorial;
 
 import java.io.BufferedReader;
 import java.io.IOException;

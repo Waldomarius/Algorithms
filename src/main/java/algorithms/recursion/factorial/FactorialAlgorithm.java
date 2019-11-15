@@ -1,4 +1,4 @@
-package factorial;
+package algorithms.recursion.factorial;
 
 public class FactorialAlgorithm {
     public long factorial(long number) {
