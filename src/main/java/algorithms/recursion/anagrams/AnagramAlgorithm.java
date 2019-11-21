@@ -1,13 +1,13 @@
 package algorithms.recursion.anagrams;
 
 public class AnagramAlgorithm {
-    private String word;
+//    private String word;
     private int size;
     private char[] arrChar;
     private int count = 1;
 
     AnagramAlgorithm(String word) {
-        this.word = word;
+//        this.word = word;
         size = word.length();
         arrChar =  word.toCharArray();
     }
